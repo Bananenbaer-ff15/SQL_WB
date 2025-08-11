@@ -1,6 +1,4 @@
 #Grundlagen
- test
- 
-cerskl
-source rdbms.sql
+
+source 02_Tables\01_tables.sql
 
