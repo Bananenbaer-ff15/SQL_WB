@@ -32,7 +32,7 @@ DESCRIBE Kunde; # Zeige die Struktur der Tabelle Kunde an
 
 -- Datensätze einfügen
 INSERT INTO Kunde (K_name, K_alter, k_mail, K_pw) 
-VALUES ('Max Mustermann', 30 , "Mmustermann@muster.de", 'doof'),
+VALUES ('Max Mustermann', 30 , "Mmustermann@muster.de", SHA2('doof', 256)),
 ('Erika Musterfrau', 25 , "Emusterfrau@muster.de", "tetanus"),
 ('Hans Müller', 40 , "EMüller.de",'bier' ),
 ('Hans Müller', 42 , "HMüller.de",'eistee'); 

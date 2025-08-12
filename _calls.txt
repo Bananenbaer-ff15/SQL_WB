@@ -2,4 +2,4 @@
 
 
 #Tabellen 3
-SOURCE 02_Tables\04_tables.sql
+SOURCE 03_Select.sql\01_select.sql
