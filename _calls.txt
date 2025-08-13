@@ -1,5 +1,0 @@
-#Grundlagen
-
-
-#Tabellen 3
-SOURCE 03_Select.sql\01_select.sql
