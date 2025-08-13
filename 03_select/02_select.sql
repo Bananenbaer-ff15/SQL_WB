@@ -5,14 +5,14 @@
 -- basic
 -- SELECT 
 --     *
--- FROM languages.contacts
+-- FROM boo.contacts
 -- ;
 
 
 -- SELECT 
 --     id,
 --     email
--- FROM languages.contacts
+-- FROM boo.contacts
 -- ;
 
 SELECT 
